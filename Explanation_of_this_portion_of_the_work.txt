@@ -1,0 +1,5 @@
+This folder automated the traveling of the image to the server. A frame is taken each minute copied to the local computer and sent over the network to the server. 
+
+All the paths are absolute. They will turn relative when the product will be done.
+
+Julien Nyambal.
